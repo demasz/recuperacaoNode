@@ -1,0 +1,24 @@
+{
+  "name": "recuperacaonode",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/demasz/recuperacaoNode#readme",
+  "bugs": {
+    "url": "https://github.com/demasz/recuperacaoNode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demasz/recuperacaoNode.git"
+  },
+  "license": "ISC",
+  "author": "Guilherme",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
